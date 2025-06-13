@@ -2,8 +2,13 @@
 
 A simple interactive piano player built using HTML, CSS, and JavaScript. It visually represents piano keys and allows users to play a birthday song by following guided lyrics and notes.
 
+Livelink: https://eshasalunkhe.github.io/Pianokeys/
+
 #Preview:
+
 ![image](https://github.com/user-attachments/assets/7e60ed16-8c92-4f35-9f78-89c2637ee430)
+
+
 
 
 ## 📌 Features
